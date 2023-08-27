@@ -1,0 +1,1 @@
+simple pricing panel project for showcasing use of media query at different screen sizes
